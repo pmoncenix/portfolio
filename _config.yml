@@ -46,12 +46,12 @@ social:
     url: http://github.com/pmoncenix
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 118 Impasse des Colombes
-  - line: 38570, Theys
+#address:
+#  - line: 118 Impasse des Colombes
+#  - line: 38570, Theys
 
 # Credits content
-credits: 'Blackrock Digital LLC, LitoMore, <br> Paul Moncenix-Larue'
+#credits: 'Blackrock Digital LLC, LitoMore, <br> Paul Moncenix-Larue'
 
 # Build settings
 markdown: kramdown
